@@ -8,3 +8,4 @@ console.log(menu);
 /*1.3 Выбор нескольких элементов по селектору */
 const paragraphs = document.querySelectorAll("p");
 console.log(paragraphs);
+
